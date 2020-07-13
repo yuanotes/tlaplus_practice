@@ -1,0 +1,12 @@
+---- MODULE squares ----
+EXTENDS TLC
+
+(*--algorithm squares
+variable
+    x \in 1..10
+
+begin
+    assert x ^ 2 <= 100;
+    skip;
+end algorithm; *)
+====
